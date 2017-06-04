@@ -6,13 +6,13 @@ emoji list
 Table of Contents
 -----------------
 
-- [People](#People)
-- [Nature](#Nature)
-- [Objects](#Objects)
-- [Places](#Places)
-- [Symbols](#Symbols)
+- [People](#people)
+- [Nature](#nature)
+- [Objects](#objects)
+- [Places](#places)
+- [Symbols](#symbols)
 
-# People #
+## People ##
 
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
 |---|---|---|
