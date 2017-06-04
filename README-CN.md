@@ -1,18 +1,18 @@
 # emoji-list
-emoji list
+emoji表情列表
 
-[![](https://img.shields.io/github/issues/caiyongji/emoji-list.svg)](https://github.com/caiyongji/emoji-list/issues)  [![](https://img.shields.io/github/forks/caiyongji/emoji-list.svg)](https://github.com/caiyongji/emoji-list/network) [![](https://img.shields.io/github/stars/caiyongji/emoji-list.svg)](https://github.com/caiyongji/emoji-list/stargazers) [![](https://travis-ci.org/caiyongji/emoji-list.svg?branch=master)](https://travis-ci.org/caiyongji/emoji-list) [![](https://img.shields.io/github/release/caiyongji/emoji-list.svg)](https://github.com/caiyongji/emoji-list/releases)[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-CN.md)
+[![](https://img.shields.io/github/issues/caiyongji/emoji-list.svg)](https://github.com/caiyongji/emoji-list/issues)  [![](https://img.shields.io/github/forks/caiyongji/emoji-list.svg)](https://github.com/caiyongji/emoji-list/network) [![](https://img.shields.io/github/stars/caiyongji/emoji-list.svg)](https://github.com/caiyongji/emoji-list/stargazers) [![](https://travis-ci.org/caiyongji/emoji-list.svg?branch=master)](https://travis-ci.org/caiyongji/emoji-list) [![](https://img.shields.io/github/release/caiyongji/emoji-list.svg)](https://github.com/caiyongji/emoji-list/releases)[![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/english.svg)](README.md)
 
-Table of Contents
+目录
 -----------------
 
-- [People](#People)
-- [Nature](#Nature)
-- [Objects](#Objects)
-- [Places](#Places)
-- [Symbols](#Symbols)
+- [人物](#人物)
+- [自然](#自然)
+- [事物](#事物)
+- [地点](#地点)
+- [符号](#符号)
 
-People
+##人物
 
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
 |---|---|---|
@@ -81,7 +81,7 @@ People
 | :rage2: `:rage2:` | :rage3: `:rage3:` | :rage4: `:rage4:` |
 | :suspect: `:suspect:` | :trollface: `:trollface:` | 
 
-Nature
+##自然
 
 | :sunny: `:sunny:` | :umbrella: `:umbrella:` | :cloud: `:cloud:` |
 |---|---|---|
@@ -124,7 +124,7 @@ Nature
 | :milky_way: `:milky_way:` | :partly_sunny: `:partly_sunny:` | :octocat: `:octocat:` |
 | :squirrel: `:squirrel:` |
 
-Objects
+##事物
 
 | :bamboo: `:bamboo:` | :gift_heart: `:gift_heart:` | :dolls: `:dolls:` |
 |---|---|---|
@@ -215,7 +215,7 @@ Objects
 | :sweet_potato: `:sweet_potato:` | :eggplant: `:eggplant:` | :tomato: `:tomato:` |
 | :corn: `:corn:` |
 
-Places
+##地点
 
 | :house: `:house:` | :house_with_garden: `:house_with_garden:` | :school: `:school:` |
 |---|---|---|
@@ -255,7 +255,7 @@ Places
 | :ru: `:ru:` | :gb: `:gb:` | :uk: `:uk:` |
 | :de: `:de:` |
 
-Symbols
+##符号
 
 | :one: `:one:` | :two: `:two:` | :three: `:three:` |
 |---|---|---|
