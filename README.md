@@ -6,11 +6,11 @@ emoji list
 Table of Contents
 -----------------
 
-- [People](#People)
-- [Nature](#Nature)
-- [Objects](#Objects)
-- [Places](#Places)
-- [Symbols](#Symbols)
+- [People](##People)
+- [Nature](##Nature)
+- [Objects](##Objects)
+- [Places](##Places)
+- [Symbols](##Symbols)
 
 ## People ##
 
