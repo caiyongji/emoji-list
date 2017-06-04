@@ -12,7 +12,7 @@ emoji表情列表
 - [地点](#地点)
 - [符号](#符号)
 
-##人物
+## 人物 ##
 
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
 |---|---|---|
@@ -81,7 +81,7 @@ emoji表情列表
 | :rage2: `:rage2:` | :rage3: `:rage3:` | :rage4: `:rage4:` |
 | :suspect: `:suspect:` | :trollface: `:trollface:` | 
 
-##自然
+## 自然 ##
 
 | :sunny: `:sunny:` | :umbrella: `:umbrella:` | :cloud: `:cloud:` |
 |---|---|---|
@@ -124,7 +124,7 @@ emoji表情列表
 | :milky_way: `:milky_way:` | :partly_sunny: `:partly_sunny:` | :octocat: `:octocat:` |
 | :squirrel: `:squirrel:` |
 
-##事物
+## 事物 ##
 
 | :bamboo: `:bamboo:` | :gift_heart: `:gift_heart:` | :dolls: `:dolls:` |
 |---|---|---|
@@ -215,7 +215,7 @@ emoji表情列表
 | :sweet_potato: `:sweet_potato:` | :eggplant: `:eggplant:` | :tomato: `:tomato:` |
 | :corn: `:corn:` |
 
-##地点
+## 地点 ##
 
 | :house: `:house:` | :house_with_garden: `:house_with_garden:` | :school: `:school:` |
 |---|---|---|
@@ -255,7 +255,7 @@ emoji表情列表
 | :ru: `:ru:` | :gb: `:gb:` | :uk: `:uk:` |
 | :de: `:de:` |
 
-##符号
+## 符号 ##
 
 | :one: `:one:` | :two: `:two:` | :three: `:three:` |
 |---|---|---|
